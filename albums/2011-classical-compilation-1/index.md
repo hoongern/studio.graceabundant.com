@@ -1,4 +1,4 @@
-## ![Classical Compilation 1](/docs/assets/images/2011-classical-compilation-1-albumcover-640.jpg)
+## ![Classical Compilation 1](/assets/images/2011-classical-compilation-1-albumcover-640.jpg)
 
 ### The Music
 
