@@ -4,4 +4,4 @@ Grace Abundant Studios was founded in 2007 by Hoong-Ern Ng & Simon Yau. Its miss
 
 ### Albums
 
-[Star Taker and Piano Performances ’17](/albums/2017-star-taker-and-piano-performances/)
+[Star Taker and Piano Performances ’17](albums/2017-star-taker-and-piano-performances/index.md)
