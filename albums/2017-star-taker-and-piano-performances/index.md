@@ -6,9 +6,7 @@ This album is a collection of compositions and piano/orchestral performances I h
 
 ### The Music
 
-Here you can find direct links to download the music in mp3 format.
-
-To download them, right-click them and press ‘save link as’ or ‘save target as’ or your browser’s equivalent.
+To download the mp3s, right-click the link and press ‘save link as’ or ‘save target as’ or your browser’s equivalent.
 
 [Download the whole album zipped (85MB)](https://files.graceabundant.com/20170718-StarTakerAndPianoPerformances/Hoong%20Ern%20Ng%20-%20Star%20Taker%20and%20Piano%20Performances.zip).
 
